@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## Murli Israni
+## Hi there 👋, Murli Israni
 
 ### **Strategic Technology Leader . Enterprise Architect · SaaS, Platform & Cloud Specialist · 20+ Years in IT**
 
@@ -12,8 +10,10 @@ Application Architecture · Cloud-Native Systems · APIs · AI Platforms · Deve
 - Operate with Confidence — observability, resilience, and clarity
 - Balance Speed & Control — DevOps, LCNC, and governance
 
-Checkout (Perosnnel Website)[https://impondesk.com]
 
+[Perosnnel Website](https://impondesk.com)
+
+[LinkedIn](https://www.linkedin.com/in/impondesk) | [X.com](https://x.com/impondesk) | [Instagram](https://www.instagram.com/impondesk)
 
 <!--
 **mxisrani/mxisrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
