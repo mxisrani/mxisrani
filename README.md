@@ -11,7 +11,7 @@ Application Architecture · Cloud-Native Systems · APIs · AI Platforms · Deve
 - Balance Speed & Control — DevOps, LCNC, and governance
 
 
-[Perosnnel Website](https://impondesk.com)
+[Personnel Website](https://impondesk.com)
 
 [LinkedIn](https://www.linkedin.com/in/impondesk) | [X.com](https://x.com/impondesk) | [Instagram](https://www.instagram.com/impondesk)
 
